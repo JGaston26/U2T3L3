@@ -76,9 +76,6 @@ public class Student {
         System.out.println("Is passing: " + isPassing());
     }
 
-
-
-
 }
 
 
